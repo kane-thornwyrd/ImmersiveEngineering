@@ -238,7 +238,7 @@ item.ImmersiveEngineering.shader.name=Shader
 itemGroup.ImmersiveEngineering=Immersive Engineering
 
 #DESCRIPTIONS
-description.villager.profession.immersiveengineering.villager_engineer=Engineer
+description.villager.profession.immersiveengineering.villager_engineer=Ingénieur
 
 desc.ImmersiveEngineering.info.attachedTo=Connexion depuis %1$s, %2$s, %3$s
 desc.ImmersiveEngineering.info.attachedToDim=Connexion depuis %1$s, %2$s, %3$s dans la dimension %4$s
